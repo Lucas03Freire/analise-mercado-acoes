@@ -1,10 +1,10 @@
-## 📌 Sobre o projeto
+## Sobre o projeto
 
 Este projeto foi desenvolvido como parte da minha formação em Análise de Dados na EBAC (Escola Britânica de Artes Criativas e Tecnologia), com o objetivo de aplicar conceitos de Análise Exploratória de Dados (EDA) utilizando Google Sheets. A partir de uma base de dados contendo operações de compra e venda de ações, desenvolvi análises estatísticas, tabelas dinâmicas, visualizações gráficas e uma classificação automática do perfil dos investidores utilizando funções do Google Sheets.
 
 O foco do projeto foi transformar dados brutos em informações relevantes, simulando uma análise inicial que poderia apoiar a tomada de decisão em um ambiente financeiro.
 
-## 🎯 Objetivos
+## Objetivos
 - Organizar uma base de dados de operações do mercado de ações.
 - Aplicar técnicas de estatística descritiva.
 - Criar análises utilizando tabelas dinâmicas.
@@ -12,7 +12,7 @@ O foco do projeto foi transformar dados brutos em informações relevantes, simu
 - Utilizar funções do Google Sheets para automatizar análises.
 - Classificar clientes conforme seu perfil de negociação.
 
-## 📁 Base de Dados
+## Base de Dados
 
 A base utilizada neste projeto contém informações de operações de compra e venda de ações realizadas por clientes fictícios, incluindo:
 
@@ -24,7 +24,7 @@ A base utilizada neste projeto contém informações de operações de compra e 
 - Valor da operação
 - Data
   
-## 🛠 Ferramentas e Técnicas Aplicadas
+## Ferramentas e Técnicas Aplicadas
 
 - **Google Sheets**
 
@@ -47,7 +47,7 @@ A base utilizada neste projeto contém informações de operações de compra e 
 - **Visualização de Dados**
   - Gráficos de linhas e barras horizontais.
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 Organizei o repositório da seguinte forma:
 
 - **dados/**
@@ -66,7 +66,7 @@ Organizei o repositório da seguinte forma:
 - **README.md**
   - Documentação do projeto.
   
-## 📊 Etapas da Análise
+## Etapas da Análise
 ### 1. Base de Dados
 #### Base de dados contendo o histórico de operações de compra e venda realizadas pelos clientes.
 
@@ -131,7 +131,7 @@ O projeto contém capturas de tela das principais análises realizadas:
 - Clientes por Volume Financeiro
 - Perfil do Cliente
 
-## 💡 Competências Desenvolvidas
+## Competências Desenvolvidas
 Este projeto permitiu desenvolver competências em:
 
 - Organização e estruturação de bases de dados.
@@ -141,7 +141,7 @@ Este projeto permitiu desenvolver competências em:
 - Documentação de projetos para portfólio.
 - Boas práticas de organização e apresentação de análises.
 
-## ✔️ Conclusão da Análise
+## Conclusão da Análise
 
 O desenvolvimento deste projeto me permitiu aplicar, na prática, conceitos fundamentais de Análise Exploratória de Dados (EDA) utilizando o Google Sheets. A partir de uma base de operações do mercado de ações, organizei os dados, gerei estatísticas descritivas, construí tabelas dinâmicas e desenvolvi visualizações que facilitaram a interpretação das informações.
 
